@@ -5,9 +5,9 @@ Hello there! I'm Suhirman, a student pursuing a degree in Computer Science. I'm 
 
 ## About Me
 - **Name**: Suhirman
-- **Education**: Currently studying Computer Science at [University Name]
+- **Education**: Currently studying Computer Science at Bina Sarana Informatika, Jakarta
 - **Interests**: Cybersecurity, programming, web development
-- **Location**: [City, Country]
+- **Location**: Jakarta, Indonesia
 
 ## Skills
 - Programming Languages: Java, Python, C++
@@ -15,15 +15,8 @@ Hello there! I'm Suhirman, a student pursuing a degree in Computer Science. I'm 
 - Cybersecurity: Network security, ethical hacking
 - Tools: Git, Linux, Docker
 
-## Projects
-- [Project Name](link): Brief description
-- [Project Name](link): Brief description
-- [Project Name](link): Brief description
-
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: [Suhirman](https://www.linkedin.com/in/suhirman)
-- GitHub: [github.com/suhirman](https://github.com/suhirman)
+- Email: suhirman2801@bsi.ac.id
 
 ## Fun Facts
 - I code even during office hours.
